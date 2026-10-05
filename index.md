@@ -3,7 +3,7 @@ layout: default
 ---
 
 ## Research Objectives
-The Male Sperm Whale Global Perspective Project seeks to address key knowledge gaps about broad patterns of male sperm whale movement and behaviour that are beyond the scope of any one localized team, through invaluable partnerships with those local groups. Specifically, this project seeks to better characterize (1) vocal learning and culture, (2) factors influencing reproductive success, and (3) long distance movements (including how they are influenced by body size and condition).
+The Male Sperm Whale Global Perspective Project seeks to address key knowledge gaps about broad patterns of male sperm whale movement and behaviour that are beyond the scope of any one localized team, through invaluable partnerships with those local groups. Specifically, this project seeks to better characterize (1) vocal learning and culture, (2) factors influencing reproductive success, and (3) long-distance movements (including how they are influenced by body size and condition).
 
 Learn more about our in-progress research projects:
 

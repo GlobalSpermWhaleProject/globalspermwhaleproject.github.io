@@ -36,4 +36,4 @@ This work is funded by the Natural Sciences and Engineering Research Council of 
 
 ## Get Involved
 
-If you are interested in joining the project as a data contributor or volunteer research asssistant, please reach out to Christine.Clarke (at) dal.ca
+If you are interested in joining the project as a data contributor or volunteer research assistant, please reach out to Christine.Clarke (at) dal.ca
