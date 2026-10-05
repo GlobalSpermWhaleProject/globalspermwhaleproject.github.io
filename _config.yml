@@ -1,0 +1,29 @@
+# Site settings
+title: The Male Sperm Whale Global Perspective Project
+subtitle: Collaboration and synthesis for big picture insight
+email: christine.clarke@dal.ca
+description:
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://globalspermwhaleproject.github.io" # the base hostname & protocol for your site
+author: Christine Clarke
+street_address:
+city:
+state:
+zip_code:
+country: Canada
+phone:
+
+# Social settings
+500px_url:
+facebook_url:
+github_url: https://github.com/GlobalSpermWhaleProject
+gitlab_url:
+googleplus_url:
+instagram_url:
+linkedin_url:
+pinterest_url:
+slack_url:
+twitter_url:
+
+# Build settings
+markdown: kramdown
