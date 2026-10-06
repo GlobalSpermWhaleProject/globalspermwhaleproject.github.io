@@ -12,7 +12,7 @@ To fill this knowledge gap, we describe mature male vocal repertoires using pass
 
 We are using automated workflows to efficiently identify codas (as in Gubnitsky *et al.* 2025) and slow clicks (method under development), respectively, from extensive datasets. We are using inter-pulse intervals of coda clicks to distinguish mature males’ codas and then classifying codas into coda types (as in Hersh *et al.* 2021). We are then testing if we can detect natal dialect and region of origin based on global clan repertoires or find evidence of convergence of male repertoires across regions. Further, we are characterizing acoustic features of slow clicks to determine how they vary across geography and time, to uncover what these patterns tell us about social learning and cultural identity of male sperm whales. 
 
-Below are preliminary results presented at the 2026 Society for Marine Mammalogy Conference.
+Below are preliminary results presented at the Society for Marine Mammalogy Conference, October 2026.
 
 
 <object data="{{ 'assets/pdfs/AC-6_Clarke_Christine_SMM2026.pdf' | relative_url }}#view=Fit" type="application/pdf" style="width: 100%; aspect-ratio: 10 / 9;">
@@ -24,6 +24,10 @@ Below are preliminary results presented at the 2026 Society for Marine Mammalogy
 
 ## Contributors
 Christine Clarke, Ana Eguiguren, Meghan Oliver, Shane Gero, Sarah Fortune, Leah Trigg, Maya Chouinard, Felicia Vachon, Mauricio Cantor, Hal Whitehead
+
+## Acknowledgements
+
+We thanks Hilary Moors-Murphy and Joy Stanistreet for providing acoustic data, and Lynelle Martell and Sophia Saleemi for auditing recordings for codas and slow clicks. 
 
 ## References
 
