@@ -3937,8 +3937,16 @@
 					height: 25em;
 					max-height: 50vh;
 					min-height: 18em;
+					max-width: 100%;
 					width: 100%;
 				}
+
+					#banner .image img {
+						-moz-object-fit: contain;
+						-webkit-object-fit: contain;
+						-ms-object-fit: contain;
+						object-fit: contain;
+					}
 
 		}
 

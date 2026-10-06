@@ -6,7 +6,7 @@ permalink: /contributors/
 
 ## Project Lead
 
-<span class="image left" style="max-width: 20%;"><img src="{{ 'assets/images/CClarke_Gully2025.jpeg' | relative_url }}" alt="Christine Clarke" /></span>
+<span class="image left" style="max-width: 20%; min-width: 10em;"><img src="{{ 'assets/images/CClarke_Gully2025.jpeg' | relative_url }}" alt="Christine Clarke" /></span>
 
 This work is being led by Christine Clarke, PhD candidate, supervised by Dr. Hal Whitehead, at Dalhousie University. Christine is primarily based out of Vancouver, Canada (UTC-7). <br>
 ResearchGate: <a href="https://www.researchgate.net/profile/Christine-Clarke-15" target="_blank" title="ResearchGate" style="border-bottom: none;"><i class="ai ai-researchgate ai-lg"></i></a><br>
