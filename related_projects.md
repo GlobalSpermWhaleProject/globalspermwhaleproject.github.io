@@ -2,6 +2,7 @@
 layout: page
 title: Related Projects
 permalink: /projects/related-projects/
+description: Reports and student projects linked to the project, including methods for detecting sperm whale clicks and drone studies of skin sloughing and body condition.
 ---
 
 Additional in-progress projects are supported by and contributing to the Male Sperm Whale Global Perspective Project.

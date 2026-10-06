@@ -2,6 +2,7 @@
 layout: page
 title: Movement and Distribution
 permalink: /projects/movement-and-distribution/
+description: Using passive acoustic monitoring and click-based body size estimates to map when and where mature male sperm whales occur across the Pacific, North Atlantic and Arctic.
 ---
 
 ## Mapping global spatiotemporal patterns in male sperm whale presence through passive acoustic monitoring

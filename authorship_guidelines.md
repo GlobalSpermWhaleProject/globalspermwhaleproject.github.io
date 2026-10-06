@@ -2,6 +2,7 @@
 layout: page
 title: Authorship Guidelines
 permalink: /authorship-guidelines/
+description: How co-authorship is offered to data contributors and collaborators on publications from the Male Sperm Whale Global Perspective Project.
 ---
 
 All collaborators will be invited to be co-authors on publications for which their data contributed (or for which other sufficient CRediT criteria are met; Brand *et al*. 2015) and for which they review and approve the final manuscript. Authorship order will be relative to individual contributions (including size of the contributed dataset, e.g. number of codas or slow clicks). 

@@ -6,6 +6,7 @@ description: An international collaboration combining local research teams' data
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://globalspermwhaleproject.github.io" # the base hostname & protocol for your site
 author: Christine Clarke
+logo: /assets/images/ProjectLogo.png
 street_address:
 city:
 state:
@@ -27,6 +28,12 @@ twitter_url:
 
 # Build settings
 markdown: kramdown
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: /assets/images/ProjectLogo.png
+
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap

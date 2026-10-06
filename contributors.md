@@ -2,6 +2,7 @@
 layout: page
 title: Contributors
 permalink: /contributors/
+description: The researchers, collaborating groups and funders behind the Male Sperm Whale Global Perspective Project, led by Christine Clarke at Dalhousie University.
 ---
 
 ## Project Lead

@@ -2,6 +2,7 @@
 layout: page
 title: Characterizing Vocal Behaviour and Culture of Male Sperm Whales 
 permalink: /projects/vocal-behaviour/
+description: Comparing codas and slow clicks of mature male sperm whales across the Pacific, North Atlantic and Arctic to study vocal learning and cultural identity.
 ---
 
 ## Context and Approach
